@@ -8,6 +8,6 @@ def key_for_min_value(name_hash)
     if price < lowest_price
       cheapest_item = item
     end
-    
+
   end
 end
