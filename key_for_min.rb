@@ -4,7 +4,7 @@
 def key_for_min_value(name_hash)
   if name_hash.length == 0
     return
-    
+
   else
     cheapest_item = []
     lowest_price = 1000000000
